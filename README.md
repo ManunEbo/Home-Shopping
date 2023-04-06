@@ -65,7 +65,7 @@ The output of this is model_data.csv
 <h5 style="color: green;">Modelling</h5>
 <p>
 In here is where all the modelling notebooks are stored.<br>
-Note, the "Classifier models Home Shopping.ipynb" is the same as "Classifier models Home Shopping feature selection.ipynb"<br>
+Note, the "Classifier models Home Shopping.ipynb" is the same as "Classifier models Home Shopping feature selection.ipynb"
 the difference being the absence of feature selection on the former.
 </p>
 
