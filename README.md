@@ -21,7 +21,6 @@ Having gathered several years worth of data, I wanted to apply machine learning 
 The project involves several tables from the database
 <ul>
 <li>Receipt table - This contains summary receipt data, total price, total number of items receipt date, receipt time and shopping venue</li>
-<li>Receipt table - This contains summary receipt data, total price, total number of items receipt date, receipt time and shopping venue</li>
 <li>Payment table - This contains payment information e.g. payment type; cash, card, plan Card_Source; Contactless, Pin, 0,DB. DD, Transfer</li>
 <li>Item table - This contains items/product information e.g. item name and item price</li>
 </ul>
