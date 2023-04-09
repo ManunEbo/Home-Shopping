@@ -92,5 +92,7 @@ Instead the best models were random forest classifier and regressor.
 <p>
 In hear, the pandas reports, exploratory data analysis is done on the model_data.csv and Evidently AI monitoring reports are stored.<br>
 Note, for a comprehensive monitoring reports, look inside the Random_forest_reports folder.<br><br>
-Looking forward, the objective is to resolve the issues with feature selection and a full deployment with AWS
+
+<h5 style="color: green;">Next step</h5>
+Looking forward, the objective is to resolve the issues with feature selection versions of the models and a full deployment with AWS
 </p>
